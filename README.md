@@ -1,2 +1,11 @@
-# globalcontentcrawl
-Generate translated content recommendations from global docusign.com websites
+
+  # Untitled
+
+  This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/o6vakInFMc3H5NMU6cVfrc/Untitled.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
